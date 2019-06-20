@@ -1,0 +1,58 @@
+.body1{
+  text-align:center;
+  background-color: #FFDAB9;
+  border: 8px solid black;
+  margin-left: 115px;
+  margin-right: 115px;
+  padding-bottom: 15px;
+}
+.title{
+  border: 5px solid black;
+  margin-left: 500px;
+  margin-right: 500px;
+  padding: 10px;
+}
+.outer{
+  margin-right: 20px;
+  padding: 5px;
+}
+.inner{
+  margin-left: 20px;
+  padding: 5px;
+}
+.sensing{
+  margin-right: 12px;
+  padding: 5px;
+}
+.intuition{
+  margin-left: 12px;
+  padding: 5px;
+}
+.thinking{
+  margin-right: 16px;
+  padding: 5px;
+}
+.feeling{
+  margin-left: 16px;
+  padding: 5px;
+}
+.judging{
+  padding: 5px;
+}
+.percieving{
+  margin-left: 30px;
+  padding: 5px;
+}
+
+
+.body2{
+  text-align:center;
+  background-color: #ffcccc
+
+}
+.header{
+  border: 3px solid black;
+  margin-left: 500px;
+  margin-right: 500px;
+  padding: 10px;
+}
