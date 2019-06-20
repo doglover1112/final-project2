@@ -43,16 +43,26 @@
   margin-left: 30px;
   padding: 5px;
 }
-
-
 .body2{
-  text-align:center;
-  background-color: #ffcccc
-
+  text-align: center;
 }
 .header{
   border: 3px solid black;
   margin-left: 500px;
   margin-right: 500px;
   padding: 10px;
+}
+img{
+  width: 400px;
+  height: 400px;
+  margin-bottom: 70px;
+}
+.results{
+  padding: 5px;
+}
+.content{
+width: 49%;
+margin-left: 25%;
+margin-right: 25%;
+display: block;
 }
